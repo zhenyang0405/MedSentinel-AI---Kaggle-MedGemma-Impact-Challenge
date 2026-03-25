@@ -122,6 +122,11 @@ MedSentinel AI is an **8-node LangGraph StateGraph** that deploys **one MedGemma
 
 ---
 
+## Hackathon Demo Video
+https://github.com/user-attachments/assets/4aa068b7-ab68-4240-9159-e171f954cea9
+
+
+
 ## 🚀 Getting Started
 
 ### Prerequisites
